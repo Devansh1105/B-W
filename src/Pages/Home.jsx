@@ -1,58 +1,26 @@
 import React, { useState, useEffect } from "react";
-import Header from "../components/Header";
 
-
-
-
-
-
-
-
+import ImageOne from "../components/ImageOne";
+import ImageTwo from "../components/ImageTwo";
+import ImageThree from "../components/ImageThree";
+import ImageFour from "../components/ImageFour";
+import Container1 from "../components/Container1";
+import Container2 from "../components/Container2";
 
 
 function Home(){
-
-
 return(
 <div>
-
-<body id="homebody">
- 
-    <h1 id="homeh1">Bookkeeping</h1>
-    <div id="homecontainer">
-    <a href="/Page"><button id="homebutton">Browse Books</button></a>
-    </div>
-
-  <script src="scripts.js"></script>
-</body>
+<ImageOne />
+<ImageTwo />
+<ImageFour />
+<ImageThree />
 
 
 
 </div>
-
-
-
-
 )
-
-
-
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 export default Home;
