@@ -18,7 +18,7 @@ const buttonStyle = {
   border: 'none',
   padding: '10px',
   borderRadius: '50%',
-  bottom:"6rem",
+  bottom:"10rem",
   cursor: "pointer"
   
 };
