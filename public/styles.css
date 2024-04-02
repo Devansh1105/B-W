@@ -383,24 +383,25 @@ body{
   .stickerpara
   {
     top: 100vw;
+    left:10vh
   }
   #stickertextid1
   {
     font-size: 25vw;
     top:-100vh;
-    left:-80vw;
+    left:-105vw;
   }
 
   #stickertextid2
   {
     color: white;
     top:-90vh;
-    left:-100vw;
+    left:-125vw;
   }
   #stickertextid3
   {
-    top:-80vw;
-    left:-220vw;
+    top:-95vw;
+    left:-215vw;
     font-size: 5vw;
     color:white;
   }
@@ -414,7 +415,7 @@ body{
   
   .image2{
     position:relative;
-    height: 200vh;
+    height: 175vh;
   
   }
   
