@@ -389,14 +389,19 @@ body{
   {
     font-size: 25vw;
     top:-100vh;
-    left:-105vw;
+    left:-90vw;
   }
 
   #stickertextid2
   {
     color: white;
     top:-90vh;
-    left:-125vw;
+    left:-110vw;
+  }
+
+  .Image2button{
+ top: 105vw;
+
   }
   #stickertextid3
   {
@@ -409,7 +414,7 @@ body{
 
   .image4{
     position:relative;
-    height: 230vh;
+    height: 200vh;
   
   }
   
