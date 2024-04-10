@@ -21,9 +21,12 @@ return(
 <p style={{ textAlign: 'center', color: 'white', fontSize: '18px',marginBottom: '7.5px'  }}>Piyush Ranjan-9916200578</p>
 <p style={{ textAlign: 'center', color: 'white', fontSize: '18px', marginBottom: '70px'  }}>Devansh Agarwal-9638920953</p>
 
-
-
-
+<div class="footer">
+    <a href="/Privacy">Privacy Policy</a>
+    <a href="/CancellationandRefund">Cancellations & Refunds</a>
+    <a href="/ShippingPolicy">Shipping Policy</a>
+    <a href="/TandC">Terms & Conditions</a>
+</div>
 
 </div>
 )
