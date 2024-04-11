@@ -22,8 +22,7 @@ Shipping Methods:
 We offer standard shipping and expedited shipping options for domestic and international orders. Shipping methods and delivery times may vary depending on your location and selected shipping option.
 Delivery Timeframes:
 
-Standard Shipping: Estimated delivery time for standard shipping is [number of days] business days for domestic orders and [number of days] business days for international orders, excluding processing time.
-Expedited Shipping: If you choose expedited shipping, your order will be delivered within [number of days] business days for domestic orders and [number of days] business days for international orders, excluding processing time.
+Standard Shipping: Estimated delivery time for standard shipping is 7-10 days business days for domestic orders  excluding processing time.
 Shipping Costs:
 
 Shipping costs are calculated based on the shipping method selected, the weight and dimensions of the package, and the destination address. You can view the shipping costs during the checkout process before completing your order.

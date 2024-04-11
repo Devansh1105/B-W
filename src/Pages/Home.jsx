@@ -17,7 +17,7 @@ return(
 <ImageFour />
 <ImageThree />
 <MyComponent />
-<p style={{ textAlign: 'center', color: 'white', fontSize: '18px', marginBottom: "20px" }}>Contact Us:</p>
+<p style={{ textAlign: 'center', color: 'white', fontSize: '18px', marginBottom: "20px" }}>Contact Us (Bits Pilani):</p>
 <p style={{ textAlign: 'center', color: 'white', fontSize: '18px',marginBottom: '7.5px'  }}>Piyush Ranjan-9916200578</p>
 <p style={{ textAlign: 'center', color: 'white', fontSize: '18px', marginBottom: '70px'  }}>Devansh Agarwal-9638920953</p>
 
