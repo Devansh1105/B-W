@@ -72,7 +72,7 @@ const ImageThree = () => {
                 <p className="img-txt" id="img-txt1">{text}</p>
                 <span className="img-txt" id="img-txt2"><b>Only</b> 30 pieces <b>tailor-made</b></span>
                 <span className="img-txt" id="img-txt3"><b>Grabs Yours While You Still Can</b></span>
-                <a href="https://forms.gle/HPrjp7sjGxwa116d7"><button className="Image3button glass">Order Now</button></a>
+                <a href="https://rzp.io/i/bhangandwhite"><button className="Image3button glass">Order Now</button></a>
             </div>
         </Parallax>
     );
