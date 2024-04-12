@@ -77,7 +77,7 @@ const ImageTwo = () => {
      <li><p><b>260 </b>GSM</p></li></ul>
  </div>
 
- <a href="https://rzp.io/i/bhangandwhite"><button className="Image2button glass">Order Now</button></a>
+ <a href="https://rzp.io/l/bhangandwhiteclothing"><button className="Image2button glass">Order Now</button></a>
 </Parallax>
 
     );
